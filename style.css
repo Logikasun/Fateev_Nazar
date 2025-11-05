@@ -1,0 +1,51 @@
+body{
+  font-family: sans-serif;
+  background-color: lightgrey;
+}
+header{
+    background-color: grey;
+    
+    
+}
+main{
+    background-color: grey;
+    
+}
+/*Зроби цей сайт красивим 😉*/
+h1{
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+}
+li {
+    text-align: center;
+    border-radius:20px ;
+}
+
+img{
+    padding: 25px;
+    width: 300px;
+    text-align: center;
+}
+ol{
+    border-radius: 25px;
+}
+iframe{
+    text-align: center;
+    padding: 100px;
+    width: 550px;
+}
+
+div{
+    background-color: grey;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+footer{
+    background-color: blue;
+}
